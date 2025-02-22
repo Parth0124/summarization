@@ -1,3 +1,4 @@
 /sqlenv/
 *.env
 *.pkl
+/summarizationenv/
