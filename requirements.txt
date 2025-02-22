@@ -20,3 +20,6 @@ pypdf
 arxiv
 wikipedia
 duckduckgo-search
+validators==0.28.1
+youtube_transcript_api
+unstructured
